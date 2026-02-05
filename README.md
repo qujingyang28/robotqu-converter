@@ -56,7 +56,7 @@
 ```bash
 git clone https://github.com/qujingyang28/robotqu-converter.git
 cd robotqu-converter
-2. 安装依赖
+**安装依赖**
 bash
 复制
 pip install -r requirements.txt
@@ -160,4 +160,5 @@ in the Software without restriction...
 </p>
 ```
 ```
+
 
